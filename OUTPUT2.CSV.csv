@@ -1,0 +1,21 @@
+hotel_name,total_bookings,cancelled_bookings,cancellation_rate_percent
+Shangri-La,5,3,60.0
+Trident Nariman Point,5,3,60.0
+Conrad Bengaluru,5,3,60.0
+ITC Gardenia,5,2,40.0
+The Westin Mindspace,5,2,40.0
+ITC Kohenur,5,2,40.0
+Hyatt Regency,5,2,40.0
+Taj Coromandel,6,2,33.33
+The Ritz-Carlton,8,1,12.5
+ITC Maurya,5,0,0.0
+The Leela Palace,5,0,0.0
+Taj Falaknuma Palace,5,0,0.0
+St. Regis,5,0,0.0
+The Oberoi,3,0,0.0
+ITC Grand Chola,5,0,0.0
+Taj Palace,5,0,0.0
+The Taj Mahal Palace,5,0,0.0
+Leela Palace,5,0,0.0
+Four Seasons,4,0,0.0
+Park Hyatt,4,0,0.0
